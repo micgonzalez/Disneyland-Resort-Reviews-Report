@@ -10,7 +10,7 @@ When running a store, a restaurant, or an attraction. Knowing what is wrong or n
 
 # Preview
 
-![Preview of this project.](https://github.com/micgonzalez/MySQL-Soccer-Players-Stats-Database/blob/main/SQL_data_science.jpg)
+![Preview of this project.](https://github.com/micgonzalez/Disneyland-Resort-Reviews-Report/blob/main/disneyland_chart.jpg)
 
 # Summary of skills
 
