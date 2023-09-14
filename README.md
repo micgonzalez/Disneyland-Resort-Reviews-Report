@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repository displays a weekly report that is like what I create in my day job as a Data Analyst for The Disneyland Resort. <b>The data set used for this repository is public data of TripAdvisor’s reviews for The Disneyland Resort. The reason is I’m not able to use the actual excel file due to its sensitive nature.</b>
+This repository displays a weekly report that is like what I create in my day job as a Data Analyst for The Disneyland Resort. <b>The data set used for this repository is public data of Tripadvisor’s reviews for The Disneyland Resort. The reason is I’m not able to use the actual excel file due to its sensitive nature.</b>
 
 # Abstract
 
